@@ -73,7 +73,7 @@ It consists of a set of coordinated scripts, templates, and CLI wrappers that tr
 
 1. Clone the project repository:
 ```bash
-git clone https://scorpion3dd@bitbucket.org/3dscorpion7/docker-gateway-proxy.git
+git clone https://github.com/scorpion3dd/loomba_demo.git
 ```
 
 
